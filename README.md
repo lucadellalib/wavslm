@@ -16,11 +16,11 @@ A single-stream speech language model based on WavLM distillation and
 
 ## 📌 Available Checkpoints
 
-|  Checkpoint  | Vocabulary | Context Window | Lookahead | Tokens / Step |
-|:------------:|:----------:|:--------------:|:---------:|:-------------:|
-| `wavslm_2k`  |   2,048    |      512       |     3     |       4       |
-| `wavslm_4k`  |   4,096    |      512       |     3     |       4       |
-| `wavslm_65k` |   65,536   |      512       |     3     |       4       |
+|                                 Checkpoint                                | Vocabulary | Context Window | Lookahead | Tokens / Step |
+|:-------------------------------------------------------------------------:|:----------:|:--------------:|:---------:|:-------------:|
+|  [lucadellalib/wavslm_2k](https://huggingface.co/lucadellalib/wavslm_2k)  |   2,048    |      512       |     3     |       4       |
+|  [lucadellalib/wavslm_4k](https://huggingface.co/lucadellalib/wavslm_4k)  |   4,096    |      512       |     3     |       4       |
+| [lucadellalib/wavslm_65k](https://huggingface.co/lucadellalib/wavslm_65k) |   65,536   |      512       |     3     |       4       |
 
 ---------------------------------------------------------------------------------------------------------
 
